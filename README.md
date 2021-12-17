@@ -18,6 +18,9 @@ iniciar o MySQL
 serviços -> mysql -> botão direito -> iniciar
 
 digitar o comando no MySQL 
+
 	show databases;
+	
 	use webmysqlteste
+	
 	select * from usuario
